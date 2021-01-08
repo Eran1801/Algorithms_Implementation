@@ -19,13 +19,13 @@
 
 #### Find Max1 ans Max2
 
-* max1Max2 : complexity time - O(2n)
-* max1Max2 : complexity time - O(n*3÷2)
+* max1Max2 : time complexity- O(2n)
+* max1Max2 : time complexity - O(n*3÷2)
 
 #### Find Min&Max 
 
-* MinMax : complexity time - O(2n)
-* MinMax : complexity time - O(n*3÷2)
+* MinMax : time complexity - O(2n)
+* MinMax : time complexity - O(n*3÷2)
 
 #### Number Game
 
@@ -44,5 +44,14 @@
 * Best track 
 * Best price 
 * Best path
+
+#### Pow calculation
+
+* Pow calculation : time complexity - O(log(n))
+
+#### Fibonacci log(n)
+
+* calculation of Fibonacci : time complexity - O(log(n))
+
 
 
